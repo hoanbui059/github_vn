@@ -33,3 +33,7 @@ Conflict (xung đột)
 - git merge {branch name} (merge branch vào)
 
 - git branch -d {branch name} (để xóa 1 branch)
+- git push (đẩy project lên github.com)
+
+- git remote origin https://github.com/hoanbui059/github_vn.git (rút gọn đường link bằng tên gọi origin)
+- git push origin {branch name}
