@@ -37,3 +37,5 @@ Conflict (xung đột)
 
 - git remote origin https://github.com/hoanbui059/github_vn.git (rút gọn đường link bằng tên gọi origin)
 - git push origin {branch name}
+
+- git clone https://
