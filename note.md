@@ -28,3 +28,7 @@ Branch
 - git branch (kiểm tra nhánh của dự án)
 
 - git checkout -b {branch name} (dùng để tạo branch mới)
+
+- git merge {branch name} (merge branch vào)
+
+- git branch -d {branch name} (để xóa 1 branch)
