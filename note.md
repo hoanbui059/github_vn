@@ -35,7 +35,7 @@ Conflict (xung đột)
 - git branch -d {branch name} (để xóa 1 branch)
 - git push (đẩy project lên github.com)
 
-- git remote origin https://github.com/hoanbui059/github_vn.git (rút gọn đường link bằng tên gọi origin)
+- git remote add origin https://github.com/hoanbui059/github_vn.git (rút gọn đường link bằng tên gọi origin)
 - git push origin {branch name}
 
 - git clone https://
@@ -45,3 +45,7 @@ Conflict (xung đột)
 # Lấy 1 branch trên github về local
 
 - git fletch origin
+
+- git checkout -b {branch name} origin /{branch name}
+
+- git pull
