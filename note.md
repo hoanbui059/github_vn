@@ -1,6 +1,7 @@
 #Terms
 
 Repository (Repo)
+Branch
 
 #Commands
 
@@ -22,4 +23,8 @@ Repository (Repo)
 
 - git checkout master (để chở về dự án hiện tại)
 
-- git checkout {brand name}
+- git checkout {branch name} (để trở về dự án tại branch name đó)
+
+- git branch (kiểm tra nhánh của dự án)
+
+- git checkout -b {branch name} (dùng để tạo branch mới)
