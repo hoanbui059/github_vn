@@ -39,3 +39,9 @@ Conflict (xung đột)
 - git push origin {branch name}
 
 - git clone https://
+
+-git push -u origin {branch name}
+
+# Lấy 1 branch trên github về local
+
+- git fletch origin
